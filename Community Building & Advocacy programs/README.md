@@ -12,3 +12,4 @@ This category includes a list of open-source communities that provide support an
 - [WriteSpeakCode](https://www.writespeakcode.com/)
 - [Processing Foundation Fellowships](https://processingfoundation.org/fellowships/)
 - [Open Education Week](https://www.openeducationweek.org/)
+- [Enterprise Neurosystems] (https://www.enterpriseneurosystem.org/)
